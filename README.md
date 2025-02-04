@@ -6,3 +6,5 @@ GCN folder contains a file that calculates the generalised coordination number o
 The coordination number file can also be found here. 
 
 The Water-Solid Properties folder contains many of the orientation and distance programs I developed. 
+
+Bash and general contain scripts that I use often, but don't fall into any specific category. 
